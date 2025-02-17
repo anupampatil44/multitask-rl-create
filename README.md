@@ -1,6 +1,7 @@
 # multitask-rl-create
 
 This repository is for CSCI-566 Spring 24 course project 'Multi-Task Reinforcement Learning for Physical Reasoning' - Learning a multi-task Reinforcement Learning agent at USC.
+[Access Project Presentation here.](https://github.com/anupampatil44/multitask-rl-create/blob/master/Project%20Presentation.pptx.pdf)
 
 # Subprojects
 
